@@ -1,0 +1,60 @@
+// FONTS
+/* Regular 400 */
+@font-face {
+	font-family: 'RF Dewi Extended';
+	font-style: normal;
+	font-weight: normal;
+	src: local('RF Dewi Extended'),
+		url('/fonts/RFDewiExtended/RFDewiExtended-Regular.woff2') format('woff2'), 
+		url('/fonts/RFDewiExtended/RFDewiExtended-Regular.woff') format('woff'), 
+		url('/fonts/RFDewiExtended/RFDewiExtended-Regular.ttf') format('ttf'), 
+		url('/fonts/RFDewiExtended/RFDewiExtended-Regular.eot') format('eot'), 
+}
+
+/* Semibold 600 */
+@font-face {
+	font-family: 'RF Dewi Extended';
+	font-style: normal;
+	font-weight: normal;
+	src: local('RF Dewi Extended'),
+		url('/fonts/RFDewiExtended/RFDewiExtended-Semibold.woff2') format('woff2'), 
+		url('/fonts/RFDewiExtended/RFDewiExtended-Semibold.woff') format('woff'), 
+		url('/fonts/RFDewiExtended/RFDewiExtended-Semibold.ttf') format('ttf'), 
+		url('/fonts/RFDewiExtended/RFDewiExtended-Semibold.eot') format('eot'), 
+}
+
+/* Bold 700 */
+@font-face {
+	font-family: 'RF Dewi Extended';
+	font-style: normal;
+	font-weight: normal;
+	src: local('RF Dewi Extended'),
+		url('/fonts/RFDewiExtended/RFDewiExtended-Bold.woff2') format('woff2'), 
+		url('/fonts/RFDewiExtended/RFDewiExtended-Bold.woff') format('woff'), 
+		url('/fonts/RFDewiExtended/RFDewiExtended-Bold.ttf') format('ttf'), 
+		url('/fonts/RFDewiExtended/RFDewiExtended-Bold.eot') format('eot'), 
+}
+
+/* Black 900 */
+@font-face {
+	font-family: 'RF Dewi Extended';
+	font-style: normal;
+	font-weight: normal;
+	src: local('RF Dewi Extended'),
+		url('/fonts/RFDewiExtended/RFDewiExtended-Black.woff2') format('woff2'), 
+		url('/fonts/RFDewiExtended/RFDewiExtended-Black.woff') format('woff'), 
+		url('/fonts/RFDewiExtended/RFDewiExtended-Black.ttf') format('ttf'), 
+		url('/fonts/RFDewiExtended/RFDewiExtended-Black.eot') format('eot'), 
+}
+
+/* Black 900 */
+@font-face {
+	font-family: 'RF Dewi Expanded';
+	font-style: normal;
+	font-weight: normal;
+	src: local('RF Dewi Expanded'),
+		url('/fonts/RFDewiExpanded/RFDewiExpanded-Black.woff2') format('woff2'), 
+		url('/fonts/RFDewiExpanded/RFDewiExpanded-Black.woff') format('woff'), 
+		url('/fonts/RFDewiExpanded/RFDewiExpanded-Black.ttf') format('ttf'), 
+		url('/fonts/RFDewiExpanded/RFDewiExpanded-Black.eot') format('eot'), 
+}
