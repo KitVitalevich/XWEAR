@@ -4,7 +4,7 @@
 @use 'vendors/reset';
 
 // 2. Base stuff
-// @use 'base/base';
+@use 'base/base';
 @use 'base/fonts';
 
 // 3. Layout-related sections
